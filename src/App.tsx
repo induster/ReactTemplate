@@ -30,7 +30,7 @@ function App() {
 
           <ul className='list-inside list-disc text-sm'>
             <li>Tanstack Query ✅</li>
-            <li>Axios for networking ✅</li>
+            <li>Axioasdfasdfs for networking ✅</li>
             <li>Eslint with airbnb config ✅</li>
             <li>Code conventions with and tailwind class sorting with prettier ✅</li>
             <li>Relative paths ready ✅</li>
